@@ -12,8 +12,11 @@ Actualmente uso Vue, pero también se usar React.
 
 PD: Me gustan mucho las artes marciales ⚡
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edwindethomas&show_icons=true&hide=stars&theme=ayu-mirage&hide_border=true&)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edwindethomas&layout=compact&theme=ayu-mirage&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=edwindethomas&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=edwindethomas&theme=tokyonight&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=edwindethomas&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+![](https://github-profile-trophy.vercel.app/?username=edwindethomas&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
 
 <!--
 **edwindethomas/edwindethomas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
