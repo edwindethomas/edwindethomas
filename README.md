@@ -100,16 +100,6 @@
 
 ###
 
-<h2 align="left">Github Views</h2>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=edwindethomas.edwindethomas&left_color=blue&right_color=blue&left_text=Views"  />
-</div>
-
-###
-
 <h2 align="left">Contact me!</h2>
 
 ###
@@ -127,3 +117,7 @@
 </div>
 
 ###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=edwindethomas.edwindethomas&left_color=blue&right_color=blue&left_text=Views"  />
+</div>
