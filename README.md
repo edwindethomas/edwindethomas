@@ -11,7 +11,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="100" src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=19&pause=10005&lines=Frontend Developer;Computer Systems Engineer;Javascript Lover;May the Force be with you"  />
+  <img height="100" src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=19&pause=10005&lines=Frontend+Developer;Computer+Systems+Engineer;Javascript+Lover;May+the+Force+be+with+you"  />
 </div>
 
 ###
@@ -87,7 +87,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=edwindethomas&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1&custom_title=Github Stats" height="150" alt="stats graph"  />
+  
+![](https://github-readme-stats.vercel.app/api?username=edwindethomas&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=edwindethomas&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=edwindethomas&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
