@@ -11,7 +11,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="100" src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=19&pause=10005&lines=Frontend+Developer;Computer+Systems+Engineer;Javascript+Lover;May+the+Force+be+with+you"  />
+  <img height="100" src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=19&pause=5000&center=true&vCenter=true&lines=Frontend+Developer;Computer+Systems+Engineer;Javascript+Lover;May+the+Force+be+with+you"  />
 </div>
 
 ###
