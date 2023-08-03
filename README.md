@@ -105,7 +105,7 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/edwindethomas/count.svg?"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=edwindethomas.edwindethomas&left_color=blue&right_color=blue&left_text=Views"  />
 </div>
 
 ###
