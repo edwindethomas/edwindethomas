@@ -89,8 +89,9 @@
 <div align="center">
   
 ![](https://github-readme-stats.vercel.app/api?username=edwindethomas&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=edwindethomas&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=edwindethomas&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+![](https://github-readme-streak-stats.herokuapp.com/?user=edwindethomas&theme=tokyonight&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=edwindethomas&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-profile-trophy.vercel.app/?username=edwindethomas&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
 </div>
 
 ###
