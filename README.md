@@ -20,7 +20,7 @@
 
 ###
 
-<h4 align="left">I'm just a frontend developer 👨‍💻<br><br>I like to learn anything about web development and I love programming, it's one of the things I'm most passionate about.<br><br>I currently work at Blife as Dev frontend 🔭, in different projects.<br><br>I currently use Vue, typescript and other technologies, but I sometimes use React.⚛️</h4>
+<h4 align="left">I'm just a frontend developer 👨‍💻<br><br>I like to learn anything about web development and I love programming, it's one of the things I'm most passionate about.<br><br>I currently work at Blife as Dev frontend 🔭, in different projects.<br><br>I currently use React⚛️, typescript and other technologies, but I sometimes use Vue.</h4>
 
 ###
 
